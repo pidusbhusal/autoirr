@@ -8,7 +8,6 @@ export default function Home() {
         <h1>Irrigation</h1>
         <div className="flex gap-5">
           <CropsCard />
-          <CropsCard />
         </div>
       </div>
     </main>
